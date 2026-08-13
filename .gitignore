@@ -1,0 +1,7 @@
+node_modules/
+dist/
+reports/**
+!reports/.gitkeep
+.aws-sam/
+.env
+*.log

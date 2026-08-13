@@ -1,0 +1,14 @@
+{
+  "tool": "cccc",
+  "branch": "Version_26",
+  "customer_version": "26",
+  "syntax": "ES2026 target / Node.js 26",
+  "runtime": "nodejs22.x",
+  "excel_source": "Alternative_Tools_Enterprise_Mapping_Matrix.xlsx",
+  "excel_documented_for": [
+    "18",
+    "20",
+    "22",
+    "24"
+  ]
+}
