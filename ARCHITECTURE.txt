@@ -1,0 +1,9 @@
+Scenario 1 Monolithic — AWS Lambda Serverless Function (Node.js)
+Branch: Version_21
+Customer Version: 21 (ES2023+ / Node.js 21)
+Runtime: nodejs20.x
+
+API Gateway event -> src/handler.js -> src/router.js -> src/domain/*
+Routes: /api/v1/health, /api/v1/products, /api/v1/orders
+Build: esbuild bundles to dist/handler.js (CommonJS for Lambda Handler)
+tools/ -> linked alt-tool runners against real project sources
