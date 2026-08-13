@@ -1,0 +1,7 @@
+# Dolos — linked to AWS Lambda (Version_24)
+
+Customer Version 24 (ES2025 target / Node.js 24)
+
+```bash
+npm run tool:Dolos
+```
