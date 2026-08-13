@@ -1,0 +1,14 @@
+{
+  "tool": "oxlint",
+  "branch": "Version_18",
+  "customer_version": "18",
+  "syntax": "ES2022 / Node.js 18",
+  "runtime": "nodejs18.x",
+  "excel_source": "Alternative_Tools_Enterprise_Mapping_Matrix.xlsx",
+  "excel_documented_for": [
+    "18",
+    "20",
+    "22",
+    "24"
+  ]
+}
